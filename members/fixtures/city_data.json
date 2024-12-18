@@ -1,0 +1,362 @@
+[
+    {
+      "model": "members.City",
+      "pk": 1,
+      "fields": {
+        "State_id": "1",
+        "Citycode": "JAI",
+        "Cityname": "JAIPUR"
+      }
+    },
+    {
+      "model": "members.City",
+      "pk": 2,
+      "fields": {
+        "State_id": "1",
+        "Citycode": "UDI",
+        "Cityname": "UDAIPUR"
+      }
+    },
+    {  
+      "model": "members.City",
+      "pk": 3,
+      "fields": {
+        "State_id": "2",
+        "Citycode": "MUM",
+        "Cityname": "MUMBAI"
+      }
+    },
+    {
+      "model": "members.City",
+      "pk": 4,
+      "fields": {
+        "State_id": "2",
+        "Citycode": "PU",
+        "Cityname": "PUNE"
+      }
+      },
+      {
+      "model": "members.City",
+      "pk": 5,
+      "fields": {
+        "State_id": "3",
+        "Citycode": "KAN",
+        "Cityname": "KANPUR"
+      }
+      },
+      {
+        "model": "members.City",
+        "pk": 6,
+        "fields": {
+          "State_id": "3",
+          "Citycode": "LUK",
+          "Cityname": "LUCKNOW"
+      }
+      },
+      {
+        "model": "members.City",
+        "pk": 7,
+        "fields": {
+          "State_id": "4",
+          "Citycode": "CHE",
+          "Cityname": "CHENNAI"
+      }
+      },
+      {
+        "model": "members.City",
+        "pk": 8,
+        "fields": {
+          "State_id": "4",
+          "Citycode": "MAD",
+          "Cityname": "MADURAI"
+      }
+      },
+      {
+        "model": "members.City",
+        "pk": 9,
+        "fields": {
+          "State_id": "5",
+          "Citycode": "HEND",
+          "Cityname": "HENDERSON"
+      }
+      },
+      {
+        "model": "members.City",
+        "pk": 10,
+        "fields": {
+          "State_id": "5",
+          "Citycode": "BC",
+          "Cityname": "BOULDER CITY"
+      }
+      },
+      {
+        "model": "members.City",
+        "pk": 11,
+        "fields": {
+          "State_id": "6",
+          "Citycode": "AH",
+          "Cityname": "AGOURA HILLS"
+      }
+      },
+      {
+        "model": "members.City",
+        "pk": 12,
+        "fields": {
+          "State_id": "6",
+          "Citycode": "AHB",
+          "Cityname": "ALHAMBRA"
+      }
+      },
+      {
+        "model": "members.City",
+        "pk": 13,
+        "fields": {
+          "State_id": "7",
+          "Citycode": "RN",
+          "Cityname": "RIVER NORTH"
+      }
+      },
+      {
+        "model": "members.City",
+        "pk": 14,
+        "fields": {
+          "State_id": "7",
+          "Citycode": "SEV",
+          "Cityname": "STREETERVILLE"
+      }
+      },
+      {
+        "model": "members.City",
+        "pk": 15,
+        "fields": {
+          "State_id": "8",
+          "Citycode": "KM",
+          "Cityname": "KISSIMMEE"
+      }
+      },
+      {
+        "model": "members.City",
+        "pk": 16,
+        "fields": {
+          "State_id": "8",
+          "Citycode": "SF",
+          "Cityname": "SAN FORD"
+      }
+      },
+      {
+        "model": "members.City",
+        "pk": 17,
+        "fields": {
+          "State_id": "9",
+          "Citycode": "WW",
+          "Cityname": "WANDSWORTH"
+      }
+      },
+      {
+        "model": "members.City",
+        "pk": 18,
+        "fields": {
+          "State_id": "9",
+          "Citycode": "COW",
+          "Cityname": "CITY OF WEST MINSTER"
+      }
+      },
+      {
+        "model": "members.City",
+        "pk": 19,
+        "fields": {
+          "State_id": "10",
+          "Citycode": "BF",
+          "Cityname": "BUFFALO"
+      }
+      },
+      {
+        "model": "members.City",
+        "pk": 20,
+        "fields": {
+          "State_id": "10",
+          "Citycode": "YK",
+          "Cityname": "YONKERS"
+      }
+      },
+      {
+        "model": "members.City",
+        "pk": 21,
+        "fields": {
+          "State_id": "11",
+          "Citycode": "OB",
+          "Cityname": "OLD BURY"
+        }
+      },
+      {
+        "model": "members.City",
+        "pk": 22,
+        "fields": {
+          "State_id": "11",
+          "Citycode": "PS",
+          "Cityname": "PELSALL"
+        }
+      },
+      {  
+        "model": "members.City",
+        "pk": 23,
+        "fields": {
+          "State_id": "12",
+          "Citycode": "BT",
+          "Cityname": "BOLTON"
+        }
+      },
+      {
+        "model": "members.City",
+        "pk": 24,
+        "fields": {
+          "State_id": "12",
+          "Citycode": "OH",
+          "Cityname": "OLDHAM"
+        }
+        },
+        {
+        "model": "members.City",
+        "pk": 25,
+        "fields": {
+          "State_id": "13",
+          "Citycode": "IM",
+          "Cityname": "INKERMAN"
+        }
+        },
+        {
+          "model": "members.City",
+          "pk": 26,
+          "fields": {
+            "State_id": "13",
+            "Citycode": "KC",
+            "Cityname": "KACA"
+        }
+        },
+        {
+          "model": "members.City",
+          "pk": 27,
+          "fields": {
+            "State_id": "14",
+            "Citycode": "IT",
+            "Cityname": "IMATRA"
+        }
+        },
+        {
+          "model": "members.City",
+          "pk": 28,
+          "fields": {
+            "State_id": "14",
+            "Citycode": "TI",
+            "Cityname": "TALLINN"
+        }
+        },
+        {
+          "model": "members.City",
+          "pk": 29,
+          "fields": {
+            "State_id": "15",
+            "Citycode": "AIS",
+            "Cityname": "ANIVSKY"
+        }
+        },
+        {
+          "model": "members.City",
+          "pk": 30,
+          "fields": {
+            "State_id": "15",
+            "Citycode": "AB",
+            "Cityname": "ANIVA BAY"
+        }
+        },
+        {
+          "model": "members.City",
+          "pk": 31,
+          "fields": {
+            "State_id": "16",
+            "Citycode": "NL",
+            "Cityname": "NEVELSK"
+        }
+        },
+        {
+          "model": "members.City",
+          "pk": 32,
+          "fields": {
+            "State_id": "16",
+            "Citycode": "OH",
+            "Cityname": "OKHA"
+        }
+        },
+        {
+          "model": "members.City",
+          "pk": 33,
+          "fields": {
+            "State_id": "17",
+            "Citycode": "AJ",
+            "Cityname": "AL JURF"
+        }
+        },
+        {
+          "model": "members.City",
+          "pk": 34,
+          "fields": {
+            "State_id": "17",
+            "Citycode": "AE",
+            "Cityname": "AL EZRA"
+        }
+        },
+        {
+          "model": "members.City",
+          "pk": 35,
+          "fields": {
+            "State_id": "18",
+            "Citycode": "AQ",
+            "Cityname": "AL QASBA"
+        }
+        },
+        {
+          "model": "members.City",
+          "pk": 36,
+          "fields": {
+            "State_id": "18",
+            "Citycode": "ANI",
+            "Cityname": "AL NOOR ISLAND"
+        }
+        },
+        {
+          "model": "members.City",
+          "pk": 37,
+          "fields": {
+            "State_id": "19",
+            "Citycode": "JM",
+            "Cityname": "JUMEIRAH"
+        }
+        },
+        {
+          "model": "members.City",
+          "pk": 38,
+          "fields": {
+            "State_id": "19",
+            "Citycode": "JA",
+            "Cityname": "JEBEL ALI"
+        }
+        },
+        {
+          "model": "members.City",
+          "pk": 39,
+          "fields": {
+            "State_id": "20",
+            "Citycode": "AN",
+            "Cityname": "AL NOAF"
+        }
+        },
+        {
+          "model": "members.City",
+          "pk": 40,
+          "fields": {
+            "State_id": "20",
+            "Citycode": "AA",
+            "Cityname": "AL ABRAQ"
+        }
+        }
+      ]

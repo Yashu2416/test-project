@@ -1,0 +1,43 @@
+
+[
+  {
+    "model": "members.Country",
+    "pk": 1,
+    "fields": {
+      "Countrycode": "IND",
+      "Countryname": "INDIA"
+    }
+  },
+  {
+    "model": "members.Country",
+    "pk": 2,
+    "fields": {
+      "Countrycode": "AM",
+      "Countryname": "AMERICA"
+    }
+    },
+    {
+    "model": "members.Country",
+    "pk": 3,
+    "fields": {
+      "Countrycode": "UK",
+      "Countryname": "UNITED KINGDOMS"
+    }
+    },
+    {
+    "model": "members.Country",
+    "pk": 4,
+    "fields": {
+      "Countrycode": "RUS",
+      "Countryname": "RUSSIA"
+    }
+    },
+    {
+    "model": "members.Country",
+    "pk": 5,
+    "fields": {
+      "Countrycode": "UAE",
+      "Countryname": "UNITED ARAB EMIRATES"
+    }
+    }
+    ]

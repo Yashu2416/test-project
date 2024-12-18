@@ -1,0 +1,183 @@
+
+[
+    {
+      "model": "members.State",
+      "pk": 1,
+      "fields": {
+        "Country_id": "1",
+        "Statecode": "RAJ",
+        "Statename": "RAJASTHAN"
+      }
+    },
+    {
+      "model": "members.State",
+      "pk": 2,
+      "fields": {
+        "Country_id": "1",
+        "Statecode": "MAH",
+        "Statename": "MAHARASTRA"
+      }
+    },
+    {  
+      "model": "members.State",
+      "pk": 3,
+      "fields": {
+        "Country_id": "1",
+        "Statecode": "UP",
+        "Statename": "UTTAR PRADESH"
+      }
+    },
+    {
+      "model": "members.State",
+      "pk": 4,
+      "fields": {
+        "Country_id": "1",
+        "Statecode": "TN",
+        "Statename": "TAMIL NADU"
+      }
+      },
+      {
+      "model": "members.State",
+      "pk": 5,
+      "fields": {
+        "Country_id": "2",
+        "Statecode": "LV",
+        "Statename": "LAS VEGAS"
+      }
+      },
+      {
+        "model": "members.State",
+        "pk": 6,
+        "fields": {
+          "Country_id": "2",
+          "Statecode": "LA",
+          "Statename": "LOS ANGELES"
+      }
+      },
+      {
+        "model": "members.State",
+        "pk": 7,
+        "fields": {
+          "Country_id": "2",
+          "Statecode": "CHI",
+          "Statename": "CHICAGO"
+      }
+      },
+      {
+        "model": "members.State",
+        "pk": 8,
+        "fields": {
+          "Country_id": "2",
+          "Statecode": "ORL",
+          "Statename": "ORLANDO"
+      }
+      },
+      {
+        "model": "members.State",
+        "pk": 9,
+        "fields": {
+          "Country_id": "3",
+          "Statecode": "LON",
+          "Statename": "LONDON"
+      }
+      },
+      {
+        "model": "members.State",
+        "pk": 10,
+        "fields": {
+          "Country_id": "3",
+          "Statecode": "NY",
+          "Statename": "NEW YORK"
+      }
+      },
+      {
+        "model": "members.State",
+        "pk": 11,
+        "fields": {
+          "Country_id": "3",
+          "Statecode": "BIR",
+          "Statename": "BIRMINGHAM"
+      }
+      },
+      {
+        "model": "members.State",
+        "pk": 12,
+        "fields": {
+          "Country_id": "3",
+          "Statecode": "MC",
+          "Statename": "MANCHESTER"
+      }
+      },
+      {
+        "model": "members.State",
+        "pk": 13,
+        "fields": {
+          "Country_id": "4",
+          "Statecode": "STP",
+          "Statename": "SEVASTOPOL"
+      }
+      },
+      {
+        "model": "members.State",
+        "pk": 14,
+        "fields": {
+          "Country_id": "4",
+          "Statecode": "PUS",
+          "Statename": "PUSHKIN"
+      }
+      },
+      {
+        "model": "members.State",
+        "pk": 15,
+        "fields": {
+          "Country_id": "4",
+          "Statecode": "AN",
+          "Statename": "ANIVA"
+      }
+      },
+      {
+        "model": "members.State",
+        "pk": 16,
+        "fields": {
+          "Country_id": "4",
+          "Statecode": "SAKH",
+          "Statename": "SAKHALIN"
+      }
+      },
+      {
+        "model": "members.State",
+        "pk": 17,
+        "fields": {
+          "Country_id": "5",
+          "Statecode": "AJM",
+          "Statename": "AJMAN"
+      }
+      },
+      {
+        "model": "members.State",
+        "pk": 18,
+        "fields": {
+          "Country_id": "5",
+          "Statecode": "SAR",
+          "Statename": "SARJAH"
+      }
+      },
+      {
+        "model": "members.State",
+        "pk": 19,
+        "fields": {
+          "Country_id": "5",
+          "Statecode": "DUB",
+          "Statename": "DUBAI"
+      }
+      },
+      {
+        "model": "members.State",
+        "pk": 20,
+        "fields": {
+          "Country_id": "5",
+          "Statecode": "UAQ",
+          "Statename": "UMM AL QUWAIN"
+      }
+      }
+      ]
